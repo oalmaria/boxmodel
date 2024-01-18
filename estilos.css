@@ -1,0 +1,39 @@
+.contenedor{
+	background-color: #f5cbe7;	
+}
+.caja1{
+	background-color: #cbf5e3;
+}
+.caja2{
+	background-color: #f3f5cb;
+}
+.caja3{
+	background-color: #e2cbf5;
+}
+/*
+.borde{
+	border: 2px solid black;
+}*/
+.margen{
+	margin: 10px;
+	margin-bottom: 20px;
+}
+button{
+	padding: 10px;
+	margin-bottom: 40px !important;
+}
+.relleno{
+	padding: 10px;
+}
+button.caja2{
+	padding-top: 20px;
+}
+button.caja3{
+	padding: 0px 15px 0px 15px;
+}
+div.caja1,div.caja2,div.caja3{
+border-bottom: 2px solid black;
+}
+div.contenedor{
+	padding: 15px;   
+}
